@@ -16,7 +16,7 @@
         ],
     "depends": ["web", 'hr'],
     "qweb": ["static/src/xml/web_widget_image_webcam.xml"],
-    'images': ['static/images/faceid.png'],
+    'images': ['static/description/images/faceid.png'],
     'installable': True,
     'application': True,
     'auto_install': False,
