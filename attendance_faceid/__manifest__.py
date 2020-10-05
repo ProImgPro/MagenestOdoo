@@ -16,6 +16,11 @@
         ],
     "depends": ["web", 'hr'],
     "qweb": ["static/src/xml/web_widget_image_webcam.xml"],
-    'images': ['static/images/icon.png'],
+    'images': ['static/images/faceid.png'],
+    'installable': True,
+    'application': True,
+    'auto_install': False,
+    'price': 10.99,
+    'currency': 'USD'
 
 }
