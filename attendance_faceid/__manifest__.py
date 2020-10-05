@@ -1,12 +1,11 @@
 {
-    "name": "Hr Attendance FaceID",
+    "name": "Hr Attendance Face Recognition",
     "summary": """
-                Allows everyone to attendance using Webcam
-                Develop by Magenest JSC """,
+                Allows everyone to attendance using Webcam""",
     "version": "0.1",
     "category": "Extra Tools",
     "website": "http://www.magenest.com",
-    "author": "Magenest",
+    "author": "Chan",
     "license": "OPL-1",
     "data": [
         "security/ir.model.access.csv",
